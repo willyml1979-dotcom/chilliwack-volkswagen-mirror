@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-10-04T15:39:35",
+  "generated_at": "2026-10-08T14:34:41",
   "vehicle_count": 169,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Roguein Chilliwack",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Rogue ",
@@ -35,7 +37,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Beetlein Chilliwack",
@@ -52,7 +56,9 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Beetlein Chilliwack",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Beetle ",
@@ -68,13 +74,16 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2015 Mercedes-Benz GLA-Class GLA 45 AMGin Chilliwack",
       "vin": "WDDTG5CB9FJ045773",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Class GLA 45 AMGin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/16861dbd5884.html",
       "source_url": "https://www.chilliwackvw.ca/used/2015-Mercedes_Benz-GLA_Class-id14211658.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2015-Mercedes_Benz-GLA_Class-id14211658.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -84,14 +93,17 @@
       "odometer_km": 189720,
       "year": 2015,
       "make": "Mercedes-Benz",
-      "model": "GLA-Class GLA 45 AMGin Chilliwack",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V 4WD EX-Lin Chilliwack",
       "vin": "2HKRW2H84HH120720",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-Lin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/f407c76c4178.html",
       "source_url": "https://www.chilliwackvw.ca/used/2017-Honda-CR_V-id14282772.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2017-Honda-CR_V-id14282772.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -101,8 +113,10 @@
       "odometer_km": 163609,
       "year": 2017,
       "make": "Honda",
-      "model": "CR-V 4WD EX-Lin Chilliwack",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -117,13 +131,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Dodge Durango R/Tin Chilliwack",
       "vin": "1C4SDJCT1JC340881",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "R/Tin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/d1353becc310.html",
       "source_url": "https://www.chilliwackvw.ca/used/2018-Dodge-Durango-id14409377.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2018-Dodge-Durango-id14409377.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -133,8 +150,10 @@
       "odometer_km": 155860,
       "year": 2018,
       "make": "Dodge",
-      "model": "Durango R/Tin Chilliwack",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Dodge Durango ",
@@ -150,13 +169,16 @@
       "year": 2018,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape Titaniumin Chilliwack",
       "vin": "1FMCU9J9XJUC71401",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Titaniumin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/3c0a3c789ed4.html",
       "source_url": "https://www.chilliwackvw.ca/used/2018-Ford-Escape-id14409376.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2018-Ford-Escape-id14409376.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -166,8 +188,10 @@
       "odometer_km": 165023,
       "year": 2018,
       "make": "Ford",
-      "model": "Escape Titaniumin Chilliwack",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape ",
@@ -183,13 +207,16 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 1500 4WD Double Cab Standard Box SLEin Chilliwack",
       "vin": "1GTV2MEC4JZ336547",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Double Standard Box SLEin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/540c23e7f7d8.html",
       "source_url": "https://www.chilliwackvw.ca/used/2018-GMC-Sierra_1500-id14342073.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2018-GMC-Sierra_1500-id14342073.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -199,8 +226,10 @@
       "odometer_km": 106500,
       "year": 2018,
       "make": "GMC",
-      "model": "Sierra 1500 4WD Double Cab Standard Box SLEin Chilliwack",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 1500 ",
@@ -215,13 +244,16 @@
       "year": 2018,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Passat Comfortline Autoin Chilliwack",
       "vin": "1VWBA7A34JC037475",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Autoin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/4a7f82399456.html",
       "source_url": "https://www.chilliwackvw.ca/used/2018-Volkswagen-Passat-id14238127.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2018-Volkswagen-Passat-id14238127.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -231,8 +263,10 @@
       "odometer_km": 36134,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Passat Comfortline Autoin Chilliwack",
-      "condition": "used"
+      "model": "Passat",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Passat ",
@@ -247,13 +281,16 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Passat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Atlas Execlinein Chilliwack",
       "vin": "1V2TR2CA9KC560361",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Execlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/f2aa2e5026c7.html",
       "source_url": "https://www.chilliwackvw.ca/used/2019-Volkswagen-Atlas-id14409380.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2019-Volkswagen-Atlas-id14409380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -263,8 +300,10 @@
       "odometer_km": 120625,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Atlas Execlinein Chilliwack",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Atlas ",
@@ -280,13 +319,16 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Titan 4x4 Crew Cab PRO-4Xin Chilliwack",
       "vin": "1N6AA1ED8LN506554",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PRO-4Xin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/2719cd1a1067.html",
       "source_url": "https://www.chilliwackvw.ca/used/2020-Nissan-Titan-id14342078.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2020-Nissan-Titan-id14342078.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -296,8 +338,10 @@
       "odometer_km": 177656,
       "year": 2020,
       "make": "Nissan",
-      "model": "Titan 4x4 Crew Cab PRO-4Xin Chilliwack",
-      "condition": "used"
+      "model": "Titan",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Titan ",
@@ -312,7 +356,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Titan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 3500 ",
@@ -328,13 +374,16 @@
       "year": 2020,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 XL 4WD SuperCrew 5.5' Boxin Chilliwack",
       "vin": "1FTEW1EP7MFA63812",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XL 5.5' Boxin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/d223112f1741.html",
       "source_url": "https://www.chilliwackvw.ca/used/2021-Ford-F_150-id14366227.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2021-Ford-F_150-id14366227.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -344,8 +393,10 @@
       "odometer_km": 106661,
       "year": 2021,
       "make": "Ford",
-      "model": "F-150 XL 4WD SuperCrew 5.5' Boxin Chilliwack",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -360,13 +411,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas Execlinein Chilliwack",
       "vin": "1V2FR2CAXNC558703",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Execlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/b47a17e28e33.html",
       "source_url": "https://www.chilliwackvw.ca/used/2022-Volkswagen-Atlas-id14409375.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2022-Volkswagen-Atlas-id14409375.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,8 +430,10 @@
       "odometer_km": 81003,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Atlas Execlinein Chilliwack",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas ",
@@ -392,13 +448,16 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV2X7B20NM079557",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/828f51bdf9cf.html",
       "source_url": "https://www.chilliwackvw.ca/used/2022-Volkswagen-Taos-id14409374.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2022-Volkswagen-Taos-id14409374.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -408,8 +467,10 @@
       "odometer_km": 73637,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Chilliwack",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Taos ",
@@ -425,7 +486,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
@@ -442,7 +505,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan ",
@@ -458,7 +523,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -473,7 +540,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -488,13 +557,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Highlander LEin Chilliwack",
       "vin": "5TDKDRBH8PS007435",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LEin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/b4980a319318.html",
       "source_url": "https://www.chilliwackvw.ca/used/2023-Toyota-Highlander-id14174065.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2023-Toyota-Highlander-id14174065.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -504,8 +576,10 @@
       "odometer_km": 92577,
       "year": 2023,
       "make": "Toyota",
-      "model": "Highlander LEin Chilliwack",
-      "condition": "used"
+      "model": "Highlander",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Highlander ",
@@ -520,7 +594,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -535,13 +611,16 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWWM7BU6PM004095",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/e02f08be540b.html",
       "source_url": "https://www.chilliwackvw.ca/used/2023-Volkswagen-Jetta-id14409381.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2023-Volkswagen-Jetta-id14409381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -551,8 +630,10 @@
       "odometer_km": 93768,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Chilliwack",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Jetta ",
@@ -568,13 +649,16 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 xDrive28iin Chilliwack",
       "vin": "WBX73EF09R5Z35157",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "xDrive28iin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/40bbe84dc365.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-BMW-X1-id14162501.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-BMW-X1-id14162501.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -584,8 +668,10 @@
       "odometer_km": 47001,
       "year": 2024,
       "make": "BMW",
-      "model": "X1 xDrive28iin Chilliwack",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -600,7 +686,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -615,7 +703,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Colorado ",
@@ -630,7 +720,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Colorado ",
@@ -645,7 +737,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -660,13 +754,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape Platinum AWDin Chilliwack",
       "vin": "1FMCU9JAXRUA83905",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Platinum AWDin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/605854cec5dc.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Ford-Escape-id14342065.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Ford-Escape-id14342065.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -676,8 +773,10 @@
       "odometer_km": 61500,
       "year": 2024,
       "make": "Ford",
-      "model": "Escape Platinum AWDin Chilliwack",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -692,7 +791,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -707,7 +808,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -722,7 +825,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Canyon ",
@@ -737,13 +842,16 @@
       "year": 2024,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V EX-L Navi AWD CVTin Chilliwack",
       "vin": "3CZRZ2H79RM100418",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L Navi CVTin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/800291c42063.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Honda-HR_V-id14227447.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Honda-HR_V-id14227447.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -753,8 +861,10 @@
       "odometer_km": 106458,
       "year": 2024,
       "make": "Honda",
-      "model": "HR-V EX-L Navi AWD CVTin Chilliwack",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V ",
@@ -770,7 +880,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V ",
@@ -786,13 +898,16 @@
       "year": 2024,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander GT S-AWCin Chilliwack",
       "vin": "JA4J4WA85RZ634973",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GT S-AWCin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/e08bea7b501a.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Mitsubishi-Outlander-id14211649.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Mitsubishi-Outlander-id14211649.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -802,8 +917,10 @@
       "odometer_km": 44981,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "Outlander GT S-AWCin Chilliwack",
-      "condition": "used"
+      "model": "Outlander",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -819,7 +936,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -835,13 +954,16 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas Execlinein Chilliwack",
       "vin": "1V2FR2CA7RC522411",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Execlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/e5ac596b4dc8.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-Atlas-id14409384.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-Atlas-id14409384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -851,8 +973,10 @@
       "odometer_km": 57706,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Atlas Execlinein Chilliwack",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas ",
@@ -868,13 +992,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen ID.4 Pro Sin Chilliwack",
       "vin": "1V21RPE82RC011576",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Pro Sin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/8bf44151cd4a.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-ID.4-id14415168.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-ID.4-id14415168.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -882,8 +1009,10 @@
       "odometer_km": 26167,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "ID.4 Pro Sin Chilliwack",
-      "condition": "used"
+      "model": "ID.4",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen ID.4 ",
@@ -897,13 +1026,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Highlinein Chilliwack",
       "vin": "3VWGM7BU7RM038196",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/40e100e431cd.html",
       "source_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-Jetta-id14409378.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2024-Volkswagen-Jetta-id14409378.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -913,8 +1045,10 @@
       "odometer_km": 77541,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Chilliwack",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -930,7 +1064,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas ",
@@ -946,7 +1082,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen ID.4 ",
@@ -960,7 +1098,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -976,7 +1116,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -992,7 +1134,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -1008,7 +1152,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1024,7 +1170,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1040,13 +1188,16 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Active AWDin Chilliwack",
       "vin": "1FMCU9JA3SUA94119",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Active AWDin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/9e2dbbbf7ecb.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Ford-Escape-id14251875.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Ford-Escape-id14251875.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,8 +1207,10 @@
       "odometer_km": 53182,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Active AWDin Chilliwack",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -1072,7 +1225,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1087,7 +1242,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -1102,7 +1259,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1117,7 +1276,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Odyssey ",
@@ -1133,7 +1294,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Odyssey ",
@@ -1149,13 +1312,16 @@
       "year": 2025,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage X-Line AWDin Chilliwack",
       "vin": "KNDPUCDF6S7362752",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "X-Line AWDin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/797387656549.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Kia-Sportage-id14300310.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Kia-Sportage-id14300310.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1165,8 +1331,10 @@
       "odometer_km": 18752,
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage X-Line AWDin Chilliwack",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -1181,7 +1349,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -1196,13 +1366,16 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus UX 300h CVTin Chilliwack",
       "vin": "JTHUCJDH7S2000727",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "300h CVTin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/75dddff331bc.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h-id14300308.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h-id14300308.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1212,13 +1385,16 @@
       "odometer_km": 30500,
       "year": 2025,
       "make": "Lexus",
-      "model": "UX 300h CVTin Chilliwack",
-      "condition": "used"
+      "model": "UX",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus UX 300h ",
       "vin": "JTHUCJDH7S2000727",
       "stock": 14300308,
+      "trim": "300h",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/5d022fee23e3.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1227,13 +1403,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Lexus",
-      "model": "UX 300h",
-      "condition": "used"
+      "model": "UX",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus UX 300h ",
       "vin": "JTHUCJDH7S2000727",
       "stock": 14300308,
+      "trim": "300h",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/5d022fee23e3.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Lexus-UX_300h.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1242,14 +1421,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Lexus",
-      "model": "UX 300h",
-      "condition": "new"
+      "model": "UX",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV GT AWDin Chilliwack",
       "vin": "JM3KJDHD8S1122162",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GT AWDin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/8da695e9a379.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Mazda-CX_70_MHEV-id14282798.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Mazda-CX_70_MHEV-id14282798.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1259,8 +1441,10 @@
       "odometer_km": 46892,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT AWDin Chilliwack",
-      "condition": "used"
+      "model": "CX-70 MHEV",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -1275,7 +1459,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -1290,13 +1476,16 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ESin Chilliwack",
       "vin": "JA4J4UA85SZ626883",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "ESin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/183b979cca6f.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Mitsubishi-Outlander-id14409370.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Mitsubishi-Outlander-id14409370.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1306,8 +1495,10 @@
       "odometer_km": 29472,
       "year": 2025,
       "make": "Mitsubishi",
-      "model": "Outlander ESin Chilliwack",
-      "condition": "used"
+      "model": "Outlander",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -1322,7 +1513,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -1337,13 +1530,16 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Execlinein Chilliwack",
       "vin": "1V2FR2CA4SC537244",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Execlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/8ec96ecb1bc8.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Atlas-id14409372.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Atlas-id14409372.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1353,8 +1549,10 @@
       "odometer_km": 32085,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas Execlinein Chilliwack",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -1370,13 +1568,16 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV4C7B23SM020339",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/9c97df60333f.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Taos-id14405727.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Taos-id14405727.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1386,8 +1587,10 @@
       "odometer_km": 12574,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Chilliwack",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1402,13 +1605,16 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVMR7RM9SM008833",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/d7c499ea358f.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14232856.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14232856.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1417,14 +1623,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVMR7RMXSM015127",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/7f66e5bdc5af.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14232857.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14232857.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1433,14 +1642,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RM1SM046242",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/b0ca19e1a481.html",
       "source_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14437776.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2025-Volkswagen-Tiguan-id14437776.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1449,8 +1661,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Chilliwack",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -1465,7 +1679,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -1481,7 +1697,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1496,7 +1714,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -1511,7 +1731,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo V60 ",
@@ -1526,7 +1748,9 @@
       "year": 2025,
       "make": "Volvo",
       "model": "V60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo V60 ",
@@ -1541,13 +1765,16 @@
       "year": 2025,
       "make": "Volvo",
       "model": "V60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Audi A3 SEDANin Chilliwack",
       "vin": "WAUGUCGY8TA027524",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SEDANin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/7a4bf76dc58c.html",
       "source_url": "https://www.chilliwackvw.ca/used/2026-Audi-A3_SEDAN-id14409364.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2026-Audi-A3_SEDAN-id14409364.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1557,8 +1784,10 @@
       "odometer_km": 20906,
       "year": 2026,
       "make": "Audi",
-      "model": "A3 SEDANin Chilliwack",
-      "condition": "used"
+      "model": "A3",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Audi A3 SEDAN ",
@@ -1574,7 +1803,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "A3 SEDAN",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Audi A3 SEDAN ",
@@ -1590,13 +1821,16 @@
       "year": 2026,
       "make": "Audi",
       "model": "A3 SEDAN",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain AWD Elevationin Chilliwack",
       "vin": "3GKALUEG8TL295319",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Elevationin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/867f1df1a1ff.html",
       "source_url": "https://www.chilliwackvw.ca/used/2026-GMC-Terrain-id14227411.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2026-GMC-Terrain-id14227411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1606,8 +1840,10 @@
       "odometer_km": 23157,
       "year": 2026,
       "make": "GMC",
-      "model": "Terrain AWD Elevationin Chilliwack",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -1622,7 +1858,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -1637,7 +1875,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -1652,7 +1892,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1667,7 +1909,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1682,7 +1926,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1697,7 +1943,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1712,13 +1960,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman Cooper S ALL4in Chilliwack",
       "vin": "WMZ23GA05T7U51556",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Cooper S ALL4in Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/ebf8bdc93acf.html",
       "source_url": "https://www.chilliwackvw.ca/used/2026-MINI-Countryman-id14282812.html",
       "dealer_url": "https://www.chilliwackvw.ca/used/2026-MINI-Countryman-id14282812.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1728,8 +1979,10 @@
       "odometer_km": 17802,
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman Cooper S ALL4in Chilliwack",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -1744,7 +1997,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -1759,7 +2014,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -1775,7 +2032,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -1791,7 +2050,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 ",
@@ -1806,7 +2067,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota RAV4 ",
@@ -1821,7 +2084,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -1837,7 +2102,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -1853,7 +2120,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -1869,12 +2138,15 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLIin Chilliwack",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GLIin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/822fcdc86131.html",
       "source_url": "https://www.chilliwackvw.ca/new/2026-Volkswagen-Jetta_GLI.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/2026-Volkswagen-Jetta_GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1883,8 +2155,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLIin Chilliwack",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1900,7 +2174,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -1916,7 +2192,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -1932,7 +2210,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -1948,12 +2228,15 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLIin Chilliwack",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GLIin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/822fcdc86131.html",
       "source_url": "https://www.chilliwackvw.ca/new/2026-Volkswagen-Jetta_GLI.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/2026-Volkswagen-Jetta_GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1962,14 +2245,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLIin Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Comfortlinein Chilliwack",
       "vin": "1V2LN2CA0TC548239",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/85caae28d0be.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13491447.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13491447.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1978,14 +2264,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Comfortlinein Chilliwack",
       "vin": "1V2LN2CA0TC549522",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/1af692b28c27.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13524487.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13524487.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1994,14 +2283,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Comfortlinein Chilliwack",
       "vin": "1V2LN2CAXTC557384",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/52105cb51b56.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13639560.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas-id13639560.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2010,14 +2302,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Atlas",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport Highlinein Chilliwack",
       "vin": "1V2BC2CA4TC220369",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/2753254f81ad.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas_Cross_Sport-id13524489.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Atlas_Cross_Sport-id13524489.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2026,8 +2321,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highlinein Chilliwack",
-      "condition": "new"
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI | AUTOMATIC TRANSMISSION | GLASS ROOF PKGin Chilliwack",
@@ -2043,13 +2340,16 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTIin Chilliwack",
       "vin": "WVWME7CD8TW266393",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTIin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/131e11880232.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_GTI-id14437775.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_GTI-id14437775.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2058,14 +2358,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTIin Chilliwack",
-      "condition": "new"
+      "model": "Golf",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R Black Editionin Chilliwack",
       "vin": "WVWKF7CD3TW238036",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Black Editionin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/0a2d13a58500.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_R-id13868164.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_R-id13868164.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,14 +2377,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R Black Editionin Chilliwack",
-      "condition": "new"
+      "model": "Golf R",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R Black Editionin Chilliwack",
       "vin": "WVWHF7CD4TW292200",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Black Editionin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/0d095e19ddbc.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_R-id14409358.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Golf_R-id14409358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2090,14 +2396,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf R Black Editionin Chilliwack",
-      "condition": "new"
+      "model": "Golf R",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Highlinein Chilliwack",
       "vin": "3VWGW7BU4TM031756",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/f93cebc4451c.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id13297721.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id13297721.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2107,14 +2416,17 @@
       "odometer_km": 2480,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Chilliwack",
       "vin": "3VWCW7BU6TM046919",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/65140edaa031.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id13597192.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id13597192.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2123,14 +2435,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWEW7BU2TM076220",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/9e00483f1c43.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409345.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409345.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2139,14 +2454,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Chilliwack",
       "vin": "3VWCW7BU5TM069480",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/44bb0a184673.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409348.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409348.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2155,14 +2473,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Chilliwack",
       "vin": "3VWCW7BU9TM067876",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8fcd6ad88733.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409351.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2171,14 +2492,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Chilliwack",
       "vin": "3VWCW7BU1TM068116",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/f096e7cfdefc.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409359.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Jetta-id14409359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2187,14 +2511,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortlinein Chilliwack",
       "vin": "3VVVC7B28TM023758",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/af5bd9185366.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13143222.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13143222.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2203,14 +2530,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV4C7B28TM040877",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/820f20b90150.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13441345.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13441345.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2219,14 +2549,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Chilliwack",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV4C7B21TM046732",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/0fcddc682302.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13506083.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13506083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2235,14 +2568,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Chilliwack",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV4C7B21TM068620",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/f4b0247a4fd3.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13907266.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Taos-id13907266.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2251,14 +2587,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Chilliwack",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RM7TM026806",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8440151a20c9.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13143223.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13143223.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2267,14 +2606,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVER7RM6TM068946",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/2a308b3d616e.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13451877.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13451877.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2283,14 +2625,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RM1TM050180",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/bdcfb16eec10.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13459570.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13459570.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2299,14 +2644,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RM8TM088117",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/239ddcf1e98f.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13610003.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13610003.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2315,14 +2663,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RM6TM103133",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/7861b7fa5dad.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13808008.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13808008.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2682,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVER7RM5TM104531",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/4d6281606456.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13808227.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13808227.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2347,14 +2701,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVMR7RM2TM121878",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/d6ce0d85ddcc.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13975090.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13975090.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2363,14 +2720,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan TRENDLINE | 5 PASSENGERin Chilliwack",
       "vin": "3VVBR7RM1TM131762",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "TRENDLINE",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/fc175c58fb39.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14068240.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14068240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2379,8 +2739,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan TRENDLINE",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
@@ -2396,7 +2758,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
@@ -2412,13 +2776,16 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVER7RM4TM158662",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/9c5aff42d76e.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409356.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409356.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2427,14 +2794,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVER7RMXTM171870",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/73c6f093518d.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409363.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409363.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2443,22 +2813,27 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Highline Turbo R-Linein Chilliwack",
       "vin": "3VVUW7RM6TM145836",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highline Turbo R-Linein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/1138887ce3d7.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409369.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2026-Volkswagen-Tiguan-id14409369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T22:55:02",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Highline Turbo R-Linein Chilliwack",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Chilliwack",
@@ -2473,7 +2848,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Chilliwack",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLI ",
@@ -2489,7 +2866,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -2505,7 +2884,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -2521,7 +2902,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Chilliwack",
@@ -2536,7 +2919,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Chilliwack",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLI ",
@@ -2552,7 +2937,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -2568,7 +2955,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -2584,7 +2973,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Tiguanin Chilliwack",
@@ -2599,7 +2990,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguanin Chilliwack",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLIin Chilliwack",
@@ -2615,13 +3008,16 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLIin Chilliwack",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWSW7BU6VM000652",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/eb1c5a81a1ae.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409346.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409346.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2630,14 +3026,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWEW7BU0VM004094",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/5c6f0989dbcf.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409360.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2646,14 +3045,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWSW7BU9VM002671",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/fed6af027cdd.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409361.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Jetta-id14409361.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2662,14 +3064,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Chilliwack",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortline Black Editionin Chilliwack",
       "vin": "3VV2D7B28VM006915",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Black Editionin Chilliwack",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/77d64e46e741.html",
       "source_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Taos-id14409347.html",
       "dealer_url": "https://www.chilliwackvw.ca/new/inventory/2027-Volkswagen-Taos-id14409347.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2678,8 +3083,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Editionin Chilliwack",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     }
   ]
 }
