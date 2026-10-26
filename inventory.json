@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-10-26T07:15:50",
+  "generated_at": "2026-10-26T07:24:13",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -991,6 +991,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Volkswagen Atlas ",
+      "vin": "1V2LR2CA0RC566401",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/d809a0356ffa.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "new",
+      "price": 52645.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volkswagen ID.4 ",
       "vin": "1V21RPE82RC011576",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/caa789e9ee38.html",
@@ -1647,17 +1658,6 @@
       "model": "Jetta",
       "condition": "new",
       "price": 37555.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "vin": "3VVGR7RMXTM152826",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/88e3a4fadce3.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "condition": "new",
-      "price": 46795.0,
       "price_currency": "CAD"
     },
     {
