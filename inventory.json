@@ -1,7 +1,7 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-10-25T22:33:23",
-  "vehicle_count": 172,
+  "generated_at": "2026-10-25T22:36:49",
+  "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -10,6 +10,14 @@
       "vin": "WVWKB7CD5SW239960",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/1e9a1c8b5d71.html",
       "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Comfortlinein Chilliwack",
+      "vin": "1V2LN2CA0TC548239",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/85caae28d0be.html",
+      "condition": "new",
+      "price": 53945.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New 2026 Volkswagen Atlas Comfortlinein Chilliwack",
@@ -25,6 +33,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/52105cb51b56.html",
       "condition": "new",
       "price": 53945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Highlinein Chilliwack",
+      "vin": "1V2BC2CA4TC220369",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/2753254f81ad.html",
+      "condition": "new",
+      "price": 59845.0,
       "price_currency": "CAD"
     },
     {
@@ -184,6 +200,14 @@
       "condition": "new"
     },
     {
+      "name": "New 2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
+      "vin": "3VVGR7RM6TM053162",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/a09437184a7d.html",
+      "condition": "new",
+      "price": 46695.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Tiguan Comfortlinein Chilliwack",
       "vin": "3VVER7RM4TM158662",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/9c5aff42d76e.html",
@@ -268,6 +292,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Chilliwack",
+      "vin": "3VWSW7BU5VM015529",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/be4edcdbb430.html",
+      "condition": "new",
+      "price": 33545.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Chilliwack",
       "vin": "3VV2D7B28VM006915",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/77d64e46e741.html",
@@ -289,6 +321,38 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/31f075a121e4.html",
       "condition": "new",
       "price": 45095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortlinein Chilliwack",
+      "vin": "3VVER7RM1VM003263",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/0fa2613e4376.html",
+      "condition": "new",
+      "price": 43595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendlinein Chilliwack",
+      "vin": "3VVBR7RM6VM004153",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/869799b04ad7.html",
+      "condition": "new",
+      "price": 40095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendlinein Chilliwack",
+      "vin": "3VVBR7RM7VM004842",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/422bcb93271b.html",
+      "condition": "new",
+      "price": 40095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortlinein Chilliwack",
+      "vin": "3VVER7RM7VM006085",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8bf97ddd4c2e.html",
+      "condition": "new",
+      "price": 43595.0,
       "price_currency": "CAD"
     },
     {
@@ -704,17 +768,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X1 ",
-      "vin": "WBX73EF09R5Z35157",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8c60c331a90a.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -1597,39 +1650,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas Comfortlinein Chilliwack",
-      "vin": "1V2LN2CA0TC548239",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/85caae28d0be.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 53945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Cross Sport Highlinein Chilliwack",
-      "vin": "1V2BC2CA4TC220369",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/2753254f81ad.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 59845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "vin": "3VVGR7RM6TM053162",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/a09437184a7d.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Editionin Chilliwack",
-      "condition": "new",
-      "price": 46695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Editionin Chilliwack",
       "vin": "3VVGR7RMXTM152826",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/88e3a4fadce3.html",
@@ -1693,61 +1713,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 40095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortlinein Chilliwack",
-      "vin": "3VWSW7BU5VM015529",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/be4edcdbb430.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 33545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Comfortlinein Chilliwack",
-      "vin": "3VVER7RM1VM003263",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/0fa2613e4376.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 43595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Trendlinein Chilliwack",
-      "vin": "3VVBR7RM6VM004153",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/869799b04ad7.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 40095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Trendlinein Chilliwack",
-      "vin": "3VVBR7RM7VM004842",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/422bcb93271b.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 40095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Comfortlinein Chilliwack",
-      "vin": "3VVER7RM7VM006085",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8bf97ddd4c2e.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 43595.0,
       "price_currency": "CAD"
     }
   ]
