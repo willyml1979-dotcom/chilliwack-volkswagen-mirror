@@ -1,7 +1,7 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-11-18T08:56:10",
-  "vehicle_count": 189,
+  "generated_at": "2026-11-18T09:01:21",
+  "vehicle_count": 191,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1767,6 +1767,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Taos Trendlinein Chilliwack",
+      "vin": "3VV8D7B2XVM031163",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/19ab8a3b9580.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
       "name": "New 2027 Volkswagen Tiguan Trendlinein Chilliwack",
       "vin": "3VVBR7RMXVM001823",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/8d040b28fbc3.html",
@@ -1853,6 +1862,15 @@
       "condition": "new",
       "price": 52595.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortlinein Chilliwack",
+      "vin": "3VVER7RM3VM019691",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/faf6ed816c55.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
     }
   ]
 }
