@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-11-17T23:42:08",
+  "generated_at": "2026-11-17T23:46:33",
   "vehicle_count": 189,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -481,6 +481,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/3c90b694812d.html",
       "condition": "new",
       "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Chilliwack",
+      "vin": "1C6SRFLP3TN297015",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/17365c054009.html",
+      "condition": "new",
+      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -1232,17 +1240,6 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 60995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 ",
-      "vin": "1C6SRFLP3TN297015",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/17365c054009.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
       "price": 60995.0,
       "price_currency": "CAD"
     },
