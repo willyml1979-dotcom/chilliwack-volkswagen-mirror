@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-11-17T07:27:29",
+  "generated_at": "2026-11-17T23:42:08",
   "vehicle_count": 189,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/24a585dc26f1.html",
       "condition": "used",
       "price": 3995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2015 for salein Chilliwack",
+      "vin": "1C4BJWEG3FL638135",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/c538b2f542b3.html",
+      "condition": "used",
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -75,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/5b8b0925f7cf.html",
       "condition": "used",
       "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2020 for salein Chilliwack",
+      "vin": "1FTEW1E41LKF06810",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/154d19aad0b2.html",
+      "condition": "used",
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -284,11 +300,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2025 for salein Chilliwack",
+      "vin": "1V2FR2CA4SC537244",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/ad0a9cfd9bf5.html",
+      "condition": "used",
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Jetta 2025 for salein Chilliwack",
       "vin": "3VWEX7BU4SM092530",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/ebfb682fbbb9.html",
       "condition": "used",
       "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Chilliwack",
+      "vin": "3VV4C7B23SM020339",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/746bffff6484.html",
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Chilliwack",
+      "vin": "3VVBR7RM1SM046242",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/170afdebac5e.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volvo V60 2025 for salein Chilliwack",
+      "vin": "YV4L12WL6S2146740",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/f91d8f8a81f0.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi A3 SEDAN 2026 for salein Chilliwack",
+      "vin": "WAUGUCGY8TA027524",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/7e91b4681fbb.html",
+      "condition": "used",
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -300,11 +356,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Terrain 2026 for salein Chilliwack",
+      "vin": "3GKALUEG8TL295319",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/375009cd2add.html",
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Venue 2026 for salein Chilliwack",
       "vin": "KMHRC8A37TU442658",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/cb1d7256adde.html",
       "condition": "used",
       "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2026 for salein Chilliwack",
+      "vin": "1C4PJXEN0TW186133",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/0b5063289f29.html",
+      "condition": "used",
+      "price": 50995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI Countryman 2026 for salein Chilliwack",
+      "vin": "WMZ23GA05T7U51556",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/3c90b694812d.html",
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2026 for salein Chilliwack",
+      "vin": "1V2FN2CA4TC543977",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/b3210a8ad97b.html",
+      "condition": "used",
+      "price": 64445.0,
       "price_currency": "CAD"
     },
     {
@@ -445,16 +533,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
-    },
-    {
-      "name": "2015 Jeep Wrangler ",
-      "vin": "1C4BJWEG3FL638135",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/c538b2f542b3.html",
-      "year": 2015,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2016 Jaguar XJin Chilliwack",
@@ -578,17 +659,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTEW1E41LKF06810",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/154d19aad0b2.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 61499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Ford Fusion Hybrid Titaniumin Chilliwack",
       "vin": "3FA6P0RU7LR207118",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/609d81194b2c.html",
@@ -671,7 +741,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 23995.0,
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -801,7 +871,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 19995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -1080,17 +1150,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2FR2CA4SC537244",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/ad0a9cfd9bf5.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Jetta Comfortlinein Chilliwack",
       "vin": "3VWEX7BU4SM092530",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/acb2dcbbdb34.html",
@@ -1105,17 +1164,6 @@
       "name": "2025 Volkswagen Taos Highlinein Chilliwack",
       "vin": "3VV4C7B23SM020339",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/9c97df60333f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VV4C7B23SM020339",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/746bffff6484.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
@@ -1157,17 +1205,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVBR7RM1SM046242",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/170afdebac5e.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2025 Volkswagen Golf R Black Editionin Chilliwack",
       "vin": "WVWKB7CD5SW239960",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/1e9a1c8b5d71.html",
@@ -1175,61 +1212,6 @@
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "new"
-    },
-    {
-      "name": "2025 Volvo V60 ",
-      "vin": "YV4L12WL6S2146740",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/f91d8f8a81f0.html",
-      "year": 2025,
-      "make": "Volvo",
-      "model": "V60",
-      "condition": "used",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Audi A3 SEDAN ",
-      "vin": "WAUGUCGY8TA027524",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/7e91b4681fbb.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "A3 SEDAN",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax LTin Chilliwack",
-      "vin": "KL77LHE23TC083292",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/a271b16828c8.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Terrain ",
-      "vin": "3GKALUEG8TL295319",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/375009cd2add.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Odyssey ",
-      "vin": "5FNRL6H86TB500522",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/29dc1fc2c545.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 57995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Hyundai Venue Preferredin Chilliwack",
@@ -1240,28 +1222,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXEN0TW186133",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/0b5063289f29.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 54995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 MINI Countryman ",
-      "vin": "WMZ23GA05T7U51556",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/3c90b694812d.html",
-      "year": 2026,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "used",
-      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -1284,6 +1244,17 @@
       "model": "1500",
       "condition": "new",
       "price": 60995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Atlas Execlinein Chilliwack",
+      "vin": "1V2FN2CA4TC543977",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/6662b3973c81.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 64445.0,
       "price_currency": "CAD"
     },
     {
