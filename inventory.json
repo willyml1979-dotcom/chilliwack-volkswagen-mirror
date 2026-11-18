@@ -1,10 +1,17 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-11-17T23:46:33",
+  "generated_at": "2026-11-18T08:56:10",
   "vehicle_count": 189,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Volkswagen Westfalia 1977 for salein Chilliwack",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/22e9d379865f.html",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Pontiac Sunfire 2004 for salein Chilliwack",
       "vin": "3G2JB52F14S109177",
@@ -59,6 +66,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/6b1654072b35.html",
       "condition": "used",
       "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Passat 2018 for salein Chilliwack",
+      "vin": "1VWBA7A34JC037475",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/a3b65e109354.html",
+      "condition": "used",
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -140,6 +155,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Bronco 2023 for salein Chilliwack",
+      "vin": "1FMEE5DP2PLB41359",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/eff1f84b730e.html",
+      "condition": "used",
+      "price": 45995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lincoln Corsair 2023 for salein Chilliwack",
       "vin": "5LMCJ1DA0PUL19588",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/ce12444c5fb7.html",
@@ -153,6 +176,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/d8e139842620.html",
       "condition": "used",
       "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2023 for salein Chilliwack",
+      "vin": "WP0CB2A92PS247650",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/835565f18e77.html",
+      "condition": "used",
+      "price": 189995.0,
       "price_currency": "CAD"
     },
     {
@@ -185,6 +216,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/9d9441bdeb57.html",
       "condition": "used",
       "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2024 for salein Chilliwack",
+      "vin": "3GTUUCE82RG405694",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/a29a7e633e36.html",
+      "condition": "used",
+      "price": 55995.0,
       "price_currency": "CAD"
     },
     {
@@ -268,6 +307,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda CR-V Hybrid 2025 for salein Chilliwack",
+      "vin": "2HKRS6H76SH219086",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/632f1d70da13.html",
+      "condition": "used",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Odyssey 2025 for salein Chilliwack",
       "vin": "5FNRL6H01SB503241",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/cc68008bf5ce.html",
@@ -281,6 +328,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/fca5d0e96903.html",
       "condition": "used",
       "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus UX 2025 for salein Chilliwack",
+      "vin": "JTHUCJDH7S2000727",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/97787f42fcc3.html",
+      "condition": "used",
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -385,6 +440,14 @@
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/3c90b694812d.html",
       "condition": "used",
       "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Chilliwack",
+      "vin": "1C6SRFLP3TN297015",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/17365c054009.html",
+      "condition": "used",
+      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -498,18 +561,7 @@
       "make": "Volkswagen",
       "model": "Westfaliain Chilliwack",
       "condition": "used",
-      "price": 12995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "1977 Volkswagen Westfalia ",
-      "vin": "2372060064",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/22e9d379865f.html",
-      "year": 1977,
-      "make": "Volkswagen",
-      "model": "Westfalia",
-      "condition": "used",
-      "price": 12995.0,
+      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
@@ -593,17 +645,6 @@
       "name": "2018 Volkswagen Passat Comfortline Autoin Chilliwack",
       "vin": "1VWBA7A34JC037475",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/4a7f82399456.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Passat",
-      "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Passat ",
-      "vin": "1VWBA7A34JC037475",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/a3b65e109354.html",
       "year": 2018,
       "make": "Volkswagen",
       "model": "Passat",
@@ -797,17 +838,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco ",
-      "vin": "1FMEE5DP2PLB41359",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/eff1f84b730e.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 ",
       "vin": "1FTEW1E88PFC69105",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/737a513b8fb1.html",
@@ -847,17 +877,6 @@
       "model": "RVRin Chilliwack",
       "condition": "used",
       "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Porsche 911 ",
-      "vin": "WP0CB2A92PS247650",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/835565f18e77.html",
-      "year": 2023,
-      "make": "Porsche",
-      "model": "911",
-      "condition": "used",
-      "price": 189995.0,
       "price_currency": "CAD"
     },
     {
@@ -927,17 +946,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUCE82RG405694",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/a29a7e633e36.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 55995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda HR-V ",
       "vin": "3CZRZ2H79RM100418",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/54f584f5f16a.html",
@@ -1000,7 +1008,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -1092,17 +1100,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H76SH219086",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/632f1d70da13.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda Odyssey ",
       "vin": "5FNRL6H01SB503241",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/cc68008bf5ce.html",
@@ -1122,17 +1119,6 @@
       "model": "Sportage",
       "condition": "new",
       "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus UX ",
-      "vin": "JTHUCJDH7S2000727",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/97787f42fcc3.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -1176,7 +1162,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 32995.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -1187,7 +1173,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 39852.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -1230,17 +1216,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 ",
-      "vin": "1C6SRFLP3TN297015",
-      "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/used/17365c054009.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 60995.0,
       "price_currency": "CAD"
     },
     {
