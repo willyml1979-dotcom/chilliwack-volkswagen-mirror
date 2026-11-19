@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Volkswagen",
-  "generated_at": "2026-11-18T19:09:09",
+  "generated_at": "2026-11-18T19:20:19",
   "vehicle_count": 192,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1669,12 +1669,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLIin Chilliwack",
+      "name": "New 2027 Volkswagen Jetta GLIin Chilliwack",
       "vin": "3VW2M7BU4VM007718",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-volkswagen-mirror/new/701fb5a3e059.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "GLIin Chilliwack",
+      "model": "Jetta",
       "condition": "new",
       "price": 38845.0,
       "price_currency": "CAD"
